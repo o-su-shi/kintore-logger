@@ -1,0 +1,14 @@
+# ローカルのデータベース（コミットしない）
+workouts.db
+
+# Streamlit のシークレット（接続情報。絶対にコミットしない）
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

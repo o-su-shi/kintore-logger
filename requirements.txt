@@ -1,0 +1,6 @@
+streamlit>=1.30
+pandas>=2.0
+streamlit-searchbox>=0.1.20
+altair>=5.0
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
